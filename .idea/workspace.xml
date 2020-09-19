@@ -11,15 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1094e81f-4bcd-42cf-ba39-91a5e273b560" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/pranta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend" beforeDir="false" afterPath="$PROJECT_DIR$/backend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/todo_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/todo_project/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/todos/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/todos/admin.py" afterDir="false" />
@@ -113,7 +106,7 @@
       <updated>1600347424959</updated>
       <workItem from="1600360654088" duration="1061000" />
       <workItem from="1600399997143" duration="9306000" />
-      <workItem from="1600411115660" duration="1608000" />
+      <workItem from="1600411115660" duration="2752000" />
     </task>
     <servers />
   </component>
